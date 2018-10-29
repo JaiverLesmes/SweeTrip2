@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="icon-1577-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/cKHp0f/icono-Plato.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/cKHp0f/icono-Plato.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1588-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1588-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/cKHp0f/icono-Plato.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1588-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1588-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1588-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Restaurantes.xlsx</name>
+      <Placemark>
+        <name>RESTAURANTE LA TOPOCHERA</name>
+        <description>ANTENA SEC ANILLO VIAL CONTIGUO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11736333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6338666666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6338666666667,4.11736333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE TOPOCHERA ANILLO VIAL</name>
+        <description>CL 1  36A 84 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11671333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.63436</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.63436,4.11671333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE TOPOCHERA SEC ANILLT VIAL</name>
+        <description>CL 1 36A 16 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11674333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.634555</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.634555,4.11674333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE</name>
+        <description>CL 15 44 113 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.136285</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6448283333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6448283333333,4.136285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE BRR RETIRO</name>
+        <description>CL 25 21A 02 LC 1 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14167331997433</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6243118852576</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6243118852576,4.14167331997433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE BRR PALMAR</name>
+        <description>CL 3C 32A 01 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11894</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62908,4.11894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL CAPORAL RESTAURANTE BAR BRR LEON XIII</name>
+        <description>CL 4A 48 82 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12080519776824</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6441519587489</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6441519587489,4.12080519776824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL ESTABLO</name>
+        <description>CR 22 3B 105 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12270333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.618295</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.618295,4.12270333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE BRR CENTRO</name>
+        <description>CR 31 39 45 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15294022077585</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6375567584476</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6375567584476,4.15294022077585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE BRR SAN BENITO</name>
+        <description>CR 34 22 56 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13785666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6306383333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6306383333333,4.13785666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE ESCOLAR BRR MANANTIAL</name>
+        <description>CR 6 CL 39C </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14902840331161</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6044451856884</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6044451856884,4.14902840331161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 5 RESTAURANTE Y HOSPEDAJE</name>
+        <description>VDA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06398239774981</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.395032988305</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.395032988305,4.06398239774981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DG RESTAURANTE LA CASETA</name>
+        <description>VDA PIPIRAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.20422941662656</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7297284833427</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7297284833427,4.20422941662656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE SENORA BUCARAMANGA</name>
+        <description>EL CONDOR 2 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.09113387721823</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5775822784153</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5775822784153,4.09113387721823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENS RESTAURANTE EL CACHILAPO </name>
+        <description>VIA VDA BRISAS DEL OCOA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11421</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6081033333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6081033333333,4.11421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESPALDA RESTAURANTE MI RANCHITO</name>
+        <description>VDA PIPIRAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.20388766414244</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7296332191242</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7296332191242,4.20388766414244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTACION DE SERVICIO YACUANA RESTAURANTE</name>
+        <description>BRR POMPEYA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.0633612273673</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3938077853321</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3938077853321,4.0633612273673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTADERO Y RESTAURANTE MI RANCHITO</name>
+        <description> VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06781174494194</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5311476526052</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5311476526052,4.06781174494194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA AGUAS CLARAS RESTAURANTE</name>
+        <description>POM LOC 1</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06366402562466</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3990369829289</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3990369829289,4.06366402562466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA AGUAS CLARAS RESTAURANTE</name>
+        <description>POM LOC 3</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06366129266335</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3990077592899</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3990077592899,4.06366129266335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE CORRALITO LLANERO</name>
+        <description>KIOSCO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12251602201726</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6179409212092</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6179409212092,4.12251602201726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE GRAN FONDA</name>
+        <description>KM 4 VIA ACACIAS </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.091145</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6677933333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6677933333333,4.091145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE GRAN FONTA</name>
+        <description>KM 4 VIA ACACIAS </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.09121615475829</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6680874019448</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6680874019448,4.09121615475829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE MI TIERRA</name>
+        <description>KM 4 VIA ANTIGUA VDA VANGUARDIA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17208</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.631135</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.631135,4.17208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA CALERA</name>
+        <description>KM 5 SEGUIDO RESTAURANTE VDA BUENAVISTA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16668565691276</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6824263876255</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6824263876255,4.16668565691276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE LA TOPOCHERA</name>
+        <description>MB LLANOS MERCEDES BENZ JUNTO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11584833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6338916666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6338916666667,4.11584833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESPALDO RESTAURANTE MI RANCHITO</name>
+        <description>VDA PIPIRAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.20407746438037</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7296874876173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7296874876173,4.20407746438037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE BAR DISCOTECA LA APALUZA</name>
+        <description>GAVIOTAS</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11564166666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6003133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6003133333333,4.11564166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE CORRALITO LLANERO</name>
+        <description>CASETA KM 1</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12223165864285</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6176581002782</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6176581002782,4.12223165864285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE CORRALITO LLANERO</name>
+        <description>KM 1</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12251602201726</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6179409212092</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6179409212092,4.12251602201726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE DONA FLOR</name>
+        <description>VDA PIPIRAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.20417846961927</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7295479979631</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7295479979631,4.20417846961927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL AMARRADERO</name>
+        <description>VANGUARDIA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16588731232315</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6236948275675</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6236948275675,4.16588731232315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL AMARRADERO</name>
+        <description>VARGUARDIA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16579</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.623795</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.623795,4.16579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL ARENAL</name>
+        <description>FCA LA ESPERANZA K 12 VDA LA UNION</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.0739</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7086016666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7086016666667,4.0739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL BAMBU</name>
+        <description>VIA ACACIAS VDA GUAYURIBA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.04891113454827</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7635129395271</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7635129395271,4.04891113454827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL IMPERIO LLANERO</name>
+        <description>VDA ALTO POMPEYA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06391652978817</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3964805151801</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3964805151801,4.06391652978817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL IMPERIO LLANERO</name>
+        <description>VDA ALTO POMPEYA APT 2</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06391022775065</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3964882081354</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3964882081354,4.06391022775065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL LAGO </name>
+        <description>KM 4 VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11704</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6116133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6116133333333,4.11704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE EL RINCON DE CHABA</name>
+        <description>VIA PUERTO LOPEZ</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.09299181810995</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3555417847908</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3555417847908,4.09299181810995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE LOS MARACOS</name>
+        <description>VDA VANGUARDIA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17752473818054</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6219050172978</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6219050172978,4.17752473818054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE MIRADOR HUMADEA</name>
+        <description>VDA CONTADERO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16913980961664</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6760507588665</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6760507588665,4.16913980961664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE SOL Y SOMBRA</name>
+        <description>AEROPUERTO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16486</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6186316666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6186316666667,4.16486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE VIEJO NICHE</name>
+        <description>VDA ALTO POMPEYA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06405332988867</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3965549336586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3965549336586,4.06405332988867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE PASO REAL PARADOR LOUNGE</name>
+        <description>VDA APIAY </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08893383818876</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5593946557922</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5593946557922,4.08893383818876,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RESTAURANTE DULIMA</name>
+        <description>VIA PTO LOPEZ SECTOR DE COFENALCO </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.09256475758268</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3557580513364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3557580513364,4.09256475758268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Peligro.xlsx</name>
+      <Placemark>
+        <name>CR 22C 37 46 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15054572</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62777481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62777481,4.15054572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ I CS 8 BRR NUEVA COLOMBIA ET 1</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15020512128073</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5908198460196</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5908198460196,4.15020512128073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 24A 38 50 BRR DELICIAS BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15520618655817</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.630213026395</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.630213026395,4.15520618655817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 34A 16 BRR LA ISLA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1498160360722</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6406777879645</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6406777879645,4.1498160360722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37 40 54 BRR BARZAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1460773760279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6417861996985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6417861996985,4.1460773760279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 36 22A 61 BRR SANTANDER</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14993256388341</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262572424209</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262572424209,4.14993256388341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 19B 42B 29 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1539039232601</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6188757101238</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6188757101238,4.1539039232601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 13 CS 7 BRR LAS DELICIAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15465</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62687</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62687,4.15465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24A SUR 16A 96 E URB LA CAROLINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11355566553279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5855516902608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5855516902608,4.11355566553279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24 27 19 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14118833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283033333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283033333333,4.14118833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 21B 37A 57 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15159402458749</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6261198325921</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6261198325921,4.15159402458749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 23 37 12 AP 202 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15043775792729</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283792137189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283792137189,4.15043775792729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 9 CS 10 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15600649319094</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283117760706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283117760706,4.15600649319094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 22B 09 MZ 11 CS 12 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15508666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6284166666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6284166666667,4.15508666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37A 21B 39 AP 102 SANTA FE BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15111320515818</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262684412776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262684412776,4.15111320515818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 22A BIS 37 A BIS 07 BRR SANTA FE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15152074246585</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6273213018515</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6273213018515,4.15152074246585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 33 24B 12 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14023</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.63075</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.63075,4.14023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 40 37A 10 BRR SAN JOSE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14685833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6421666666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6421666666667,4.14685833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 39 34 38 BRR CENTRO</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.149795</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6419883333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6419883333333,4.149795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 01 BRR MALVINAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15371</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.612705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.612705,4.15371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 190 BRR MALVINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15347</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6051133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6051133333333,4.15347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 16 44A 12 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15377442543155</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6139911141173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6139911141173,4.15377442543155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA SAN ANTONIO SEC PARQUE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08748129747173</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6785687321579</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6785687321579,4.08748129747173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="icon-1588-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1588-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1588-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1588-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1588-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/iiHxLf/icono-Hotel.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Peligro.xlsx</name>
+      <Placemark>
+        <name>CR 22C 37 46 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15054572</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62777481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62777481,4.15054572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ I CS 8 BRR NUEVA COLOMBIA ET 1</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15020512128073</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5908198460196</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5908198460196,4.15020512128073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 24A 38 50 BRR DELICIAS BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15520618655817</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.630213026395</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.630213026395,4.15520618655817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 34A 16 BRR LA ISLA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1498160360722</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6406777879645</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6406777879645,4.1498160360722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37 40 54 BRR BARZAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1460773760279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6417861996985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6417861996985,4.1460773760279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 36 22A 61 BRR SANTANDER</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14993256388341</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262572424209</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262572424209,4.14993256388341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 19B 42B 29 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1539039232601</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6188757101238</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6188757101238,4.1539039232601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 13 CS 7 BRR LAS DELICIAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15465</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62687</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62687,4.15465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24A SUR 16A 96 E URB LA CAROLINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11355566553279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5855516902608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5855516902608,4.11355566553279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24 27 19 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14118833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283033333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283033333333,4.14118833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 21B 37A 57 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15159402458749</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6261198325921</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6261198325921,4.15159402458749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 23 37 12 AP 202 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15043775792729</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283792137189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283792137189,4.15043775792729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 9 CS 10 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15600649319094</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283117760706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283117760706,4.15600649319094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 22B 09 MZ 11 CS 12 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15508666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6284166666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6284166666667,4.15508666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37A 21B 39 AP 102 SANTA FE BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15111320515818</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262684412776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262684412776,4.15111320515818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 22A BIS 37 A BIS 07 BRR SANTA FE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15152074246585</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6273213018515</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6273213018515,4.15152074246585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 33 24B 12 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14023</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.63075</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.63075,4.14023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 40 37A 10 BRR SAN JOSE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14685833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6421666666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6421666666667,4.14685833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 39 34 38 BRR CENTRO</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.149795</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6419883333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6419883333333,4.149795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 01 BRR MALVINAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15371</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.612705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.612705,4.15371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 190 BRR MALVINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15347</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6051133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6051133333333,4.15347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 16 44A 12 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15377442543155</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6139911141173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6139911141173,4.15377442543155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA SAN ANTONIO SEC PARQUE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08748129747173</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6785687321579</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6785687321579,4.08748129747173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hoteles.xlsx</name>
+      <Placemark>
+        <name>800 MTS ANTES DEL HOTEL CAMPANARIO</name>
+        <description>VIA CATAMA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13523318349838</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5712145960229</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5712145960229,4.13523318349838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BONDYE BRR EL REMANSO</name>
+        <description>CL 15 15 33 P 2 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13590666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6168</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6168,4.13590666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL ANOCHECER LLANESTERO SEC TERMINAL</name>
+        <description>CL 15 2 84 LC 17 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13274854256862</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6061948806901</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6061948806901,4.13274854256862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> BRR LA GRAMALOT DETRAS HOTEL ROSADO</name>
+        <description>CL 34 23 ESQ CAÐO</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14858454414974</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.629447569734</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.629447569734,4.14858454414974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL ROSADO BRR SAN ISIDRO</name>
+        <description>CL 35 23 17</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14892061948699</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6287096501406</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6287096501406,4.14892061948699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL SOL DORADO BRR CENTRO</name>
+        <description>CL 37 29 66 70 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15138666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6354133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6354133333333,4.15138666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL LA GRAN RESERVA BRR CENTRO</name>
+        <description>CL 37 30 64 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.151175</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.636285</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.636285,4.151175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BRR CENTRO</name>
+        <description>CL 37A 29 63 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15197176097676</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6350597365415</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6350597365415,4.15197176097676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL TURISTA DEL LLANO BRR CENTRO</name>
+        <description>CL 38 30A 42 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15209270867567</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6361894710413</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6361894710413,4.15209270867567,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL EL FARO BRR VILLA JULIA</name>
+        <description>CL 39 28 81 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15414548306399</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6349334727311</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6349334727311,4.15414548306399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BRR HACARITAMA</name>
+        <description>CL 4 14 ESQ SERV GENERALES </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.12849638563655</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6136892023716</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6136892023716,4.12849638563655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL ESCOBAR BRR LA GRAMA</name>
+        <description>CL 41 29 95 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1548247557349</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.637047737352</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.637047737352,4.1548247557349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL VILLA LAURA ALTO POMPEYA</name>
+        <description>CL 6 9 148 FRENTE </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06471956451142</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3922228659006</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3922228659006,4.06471956451142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL VILLA LAURA ALTO POMPEYA AP 102</name>
+        <description>CL 6 9 148 FTE </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06468723794435</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3924057520652</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3924057520652,4.06468723794435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 8 SUR 22C 28 ANTES DEL HOTEL ORQUIDEA</name>
+        <description>CL 8 SUR 22C 28</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11539468583021</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6109662669286</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6109662669286,4.11539468583021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CONTIGUO HOTEL CAMPANARIO</name>
+        <description>CONTIGUO</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13376511089025</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5669394664796</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5669394664796,4.13376511089025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BRR EL ESTERO</name>
+        <description>CR 12 11 32 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1330005595543</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6129762399535</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6129762399535,4.1330005595543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BRR EL ESTERO</name>
+        <description>CR 12 14 31 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13388902962421</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6131356257328</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6131356257328,4.13388902962421,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BRR CENTRO</name>
+        <description>CR 29 37 67 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15170193993881</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.634384031906</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.634384031906,4.15170193993881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL GABAN BRR CENTRO</name>
+        <description>CR 29 37B 15 35 LC 05 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15289829018329</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6343606139256</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6343606139256,4.15289829018329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 30 49 FRE AL HOTEL DEL LLANO BRR EL CAUDAL</name>
+        <description>CR 30 49 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16442817</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.64052099</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.64052099,4.16442817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAPITAL PLAZA</name>
+        <description>CR 31A 36 25 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15062166666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6371466666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6371466666667,4.15062166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL DIAMANTE BLUE BRR SAN BENITO</name>
+        <description>CR 33 24 57 59 63 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13988333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6309533333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6309533333333,4.13988333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL EL CAIMITO BRR NUEVO MAIZARO</name>
+        <description>CR 35 26A 20 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14072</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6335333333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6335333333333,4.14072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DETRAS HOTEL COSTAS DEL LLANO QUINTAS GUACAMAYA</name>
+        <description>VDA LAS MERC</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.05764166666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7054583333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7054583333333,4.05764166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA EL PORVENIR FRE HOTEL LAS GARZAS</name>
+        <description>VDA LA ZURIA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06545166666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6719716666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6719716666667,4.06545166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA VILLA EMMA AL PIE HOTEL NAVAR CITY</name>
+        <description>VDA BUENAVISTA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16705170304525</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6816148752861</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6816148752861,4.16705170304525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GLORIETA ANTES HOTEL CAMPANARIO</name>
+        <description>GLORIETA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13654141767354</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5736712980945</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5736712980945,4.13654141767354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL BALCONES DE APIAY CAMELLON SANTO ANGEL I</name>
+        <description>VDA APIAY</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.09544678009823</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5602612260393</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5602612260393,4.09544678009823,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE COSTA DEL LLANO</name>
+        <description>VDA LA UNION</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06046333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.70407</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.70407,4.06046333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CARICARE</name>
+        <description>VDA ALTO POMPEYA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.0647693377046</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3921609308812</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3921609308812,4.0647693377046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL EL DIAMANTE</name>
+        <description>CONTINUA AL CLUB DEPORTIVO LOS GEMELOS</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.151865</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.58372</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.58372,4.151865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL EL MIRADOR</name>
+        <description>ANTIGUA VIA BOGOTA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16777201317315</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6641791709173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6641791709173,4.16777201317315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL ESTELAR</name>
+        <description>AV 40  CL 11</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13143333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6382883333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6382883333333,4.13143333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL LAS TEKAS</name>
+        <description>FRE EN LA RELIQUIA VDA CANOS NEGROS</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13264133702009</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5494042494564</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5494042494564,4.13264133702009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL NAVAR CITY</name>
+        <description>VDA BUENAVISTA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16656042787587</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6812886996469</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6812886996469,4.16656042787587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL PALO A PIQUE</name>
+        <description>VDA LA POYATA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.18441239044512</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5806957775223</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5806957775223,4.18441239044512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL POFA</name>
+        <description>KM 4 VIA VILLAVICENCIO PUERTO LOPEZ</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11255833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.606805</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.606805,4.11255833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL POFA SEC OCOA</name>
+        <description>SEC OCOA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11275</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.606495</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.606495,4.11275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL TERMINAL DE TRANSPORTE</name>
+        <description>ZONA OPERATIVA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.13228714650072</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6026489839399</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6026489839399,4.13228714650072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL SAN FELIPEP</name>
+        <description>KM 1 VIA PTO LOPEZ VDA OCOA </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11140333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6065816666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6065816666667,4.11140333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL VANGUARDIA DEL LLANO</name>
+        <description>KM 1 VIA RESTREPO </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17054532517491</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6209473388729</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6209473388729,4.17054532517491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE SEC CHORILLANO</name>
+        <description>KM 4 VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11292666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.608585</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.608585,4.11292666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL LA POFA VIA PUERTO LOPEZ</name>
+        <description>KM 4 VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11286333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6064983333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6064983333333,4.11286333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL POFA</name>
+        <description>KM 4 VIA PTO LOPEZ </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11283833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6061883333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6061883333333,4.11283833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL VALLE DE TENZA</name>
+        <description>KM 4 VIA PTO LOPEZ SECTOR OCOA </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1131</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6067283333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6067283333333,4.1131,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEC MERECURE HOTEL</name>
+        <description>KM 47 VIA PTO LOPEZ </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06895333333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.2228083333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.2228083333333,4.06895333333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE VILLA CELENA</name>
+        <description>KM 7 VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08768818139264</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5645172712579</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5645172712579,4.08768818139264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE VILLA FABIOLA</name>
+        <description>KM 7 VIA PTO LOPEZ </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08769029437487</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.564712304966</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.564712304966,4.08769029437487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE DURANTA</name>
+        <description>KM 7 VIA PTO LOPEZ VDA APIAY </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08628272665519</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5608841712888</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5608841712888,4.08628272665519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL EL PARAISO VDA APIAY</name>
+        <description>KM 8 VIA PTO LOPEZ</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08871704339474</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5532701631537</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5532701631537,4.08871704339474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL LA HERRADURA</name>
+        <description>LT 1 KM 6 ANT VIA RESTREPO </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17916217904212</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6170974516625</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6170974516625,4.17916217904212,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEC HOTEL NAVAR CITY</name>
+        <description>VDA BUENAVISTA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.16692741407316</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6822136019895</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6822136019895,4.16692741407316,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL DEL COMERCIO BRR CENTRO</name>
+        <description>TR 29A 38 19 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15305438438626</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6350757350394</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6350757350394,4.15305438438626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL DEL COMERCIO BRR CENTRO</name>
+        <description>TR 29A 38 19 P 2 </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15307124133598</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6350970016369</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6350970016369,4.15307124133598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CAMPESTRE VILLA ROSALINDA</name>
+        <description>VDA LA LLANERITA</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.0826397846747</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5391515660428</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5391515660428,4.0826397846747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DETRAS HOTEL</name>
+        <description>VDA VANGUARDIA </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17970846876315</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6190882907958</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6190882907958,4.17970846876315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CIUDAD RESOR</name>
+        <description>VIA PTO LOPEZ KM 23 VDA SANTA HELENA ALTA </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.07586002026288</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.4272890233351</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.4272890233351,4.07586002026288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL VDA VANGUARDIA</name>
+        <description>VILLA CLAUDIA AL LADO </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.17073</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62078</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62078,4.17073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>HOTEL CARIBENO</name>
+        <description>VILLA LIZETH VD CANOS NEGROS DG </description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1352737632842</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5426137331151</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5426137331151,4.1352737632842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

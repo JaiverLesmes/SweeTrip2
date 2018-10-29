@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "278194175348",
+    "firebase_url": "https://teak-digit-219520.firebaseio.com",
+    "project_id": "teak-digit-219520",
+    "storage_bucket": "teak-digit-219520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278194175348:android:a9bcf7d14074651a",
+        "android_client_info": {
+          "package_name": "com.example.jaiver.sweetrip2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278194175348-cl6od3cfhiuqva551vk9dvqa43dnqua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaiver.sweetrip2",
+            "certificate_hash": "4c285fb5071703a3e8ea43bbabf549b3449fd6ff"
+          }
+        },
+        {
+          "client_id": "278194175348-42teveejcsladrujkc172mc02h1irvcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jaiver.sweetrip2",
+            "certificate_hash": "c06acc3f4bde9aca5514eb7239c25d0c3b25baea"
+          }
+        },
+        {
+          "client_id": "278194175348-ghn2al99n8uhleui8jhq3bbuu0vg6rno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgz75c6kd2djRbO7VQxOYeqM7wk4rOjBg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278194175348-ghn2al99n8uhleui8jhq3bbuu0vg6rno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

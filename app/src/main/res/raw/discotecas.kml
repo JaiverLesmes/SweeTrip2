@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="icon-1577-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/n2FHLf/icono-Disco.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1588-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1588-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://image.ibb.co/gJOiQf/icono-Fuego2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1588-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1588-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1588-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Discotecas.xlsx</name>
+      <Placemark>
+        <name>DISCOTECA BRISAS DE SANTO DOMINGO</name>
+        <description>SANTO DOMINGO</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>2.86234854578546</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.804985714812</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.804985714812,2.86234854578546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA KARAOKE</name>
+        <description>INSP CACAYAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>3.47603868467138</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.9100501365644</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9100501365644,3.47603868467138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA EL CRUCERO</name>
+        <description>FCA QUINCE LETRAS FRE A</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>3.50342833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.9461533333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9461533333333,3.50342833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA INSP SAN LORENZO</name>
+        <description><![CDATA[latitude: 3.81055236946494<br>longitude: -73.5487788579876]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>3.81055236946494</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5487788579876</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5487788579876,3.81055236946494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA DON JUAN ACACIAS</name>
+        <description>SECTOR MALECON</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>3.98058968534978</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.7572977197872</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.7572977197872,3.98058968534978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> DISCOTECA LUNA AZUL</name>
+        <description>VIA PTO LOPEZ POMPEYA MZ N3</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.06449</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.3922733333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.3922733333333,4.06449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA CAPACHOS</name>
+        <description>CR 48 17 83 SUR INT B </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11070128</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6545622</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6545622,4.11070128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DISCOTECA LA CALERA</name>
+        <description>BRR GAVIOTAS CL 21 SUR 7 33 </description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11504833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5999166666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5999166666667,4.11504833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA APALUZA GAVIOTAS</name>
+        <description>RESTAURANTE BAR DISCOTECA</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11564166666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6003133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6003133333333,4.11564166666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TATAROCO DISCOTECA</name>
+        <description>SEC ANILLO VIAL</description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1188278219721</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6411455104854</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6411455104854,4.1188278219721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Peligro.xlsx</name>
+      <Placemark>
+        <name>CR 22C 37 46 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15054572</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62777481</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62777481,4.15054572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ I CS 8 BRR NUEVA COLOMBIA ET 1</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15020512128073</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5908198460196</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5908198460196,4.15020512128073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 24A 38 50 BRR DELICIAS BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15520618655817</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.630213026395</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.630213026395,4.15520618655817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 34A 16 BRR LA ISLA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1498160360722</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6406777879645</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6406777879645,4.1498160360722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37 40 54 BRR BARZAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1460773760279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6417861996985</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6417861996985,4.1460773760279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 36 22A 61 BRR SANTANDER</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14993256388341</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262572424209</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262572424209,4.14993256388341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 19B 42B 29 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.1539039232601</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6188757101238</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6188757101238,4.1539039232601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 13 CS 7 BRR LAS DELICIAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15465</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.62687</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.62687,4.15465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24A SUR 16A 96 E URB LA CAROLINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.11355566553279</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.5855516902608</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.5855516902608,4.11355566553279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 24 27 19 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14118833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283033333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283033333333,4.14118833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 21B 37A 57 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15159402458749</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6261198325921</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6261198325921,4.15159402458749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 23 37 12 AP 202 BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15043775792729</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283792137189</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283792137189,4.15043775792729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MZ 9 CS 10 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15600649319094</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6283117760706</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6283117760706,4.15600649319094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 38 22B 09 MZ 11 CS 12 BRR BRISAS DEL GUATIQUIA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15508666666667</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6284166666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6284166666667,4.15508666666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 37A 21B 39 AP 102 SANTA FE BRR INDUSTRIAL</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15111320515818</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6262684412776</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6262684412776,4.15111320515818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 22A BIS 37 A BIS 07 BRR SANTA FE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15152074246585</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6273213018515</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6273213018515,4.15152074246585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 33 24B 12 BRR SAN MARCOS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14023</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.63075</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.63075,4.14023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 40 37A 10 BRR SAN JOSE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.14685833333333</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6421666666667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6421666666667,4.14685833333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CL 39 34 38 BRR CENTRO</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.149795</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6419883333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6419883333333,4.149795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 01 BRR MALVINAS</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15371</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.612705</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.612705,4.15371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CS 190 BRR MALVINA</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15347</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6051133333333</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6051133333333,4.15347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CR 16 44A 12 BRR VILLA SUAREZ</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.15377442543155</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6139911141173</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6139911141173,4.15377442543155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FCA SAN ANTONIO SEC PARQUE</name>
+        <description>¡Sector Peligroso! Tener precaución</description>
+        <styleUrl>#icon-1588-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="latitude">
+            <value>4.08748129747173</value>
+          </Data>
+          <Data name="longitude">
+            <value>-73.6785687321579</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.6785687321579,4.08748129747173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
